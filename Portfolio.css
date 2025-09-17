@@ -1,0 +1,26 @@
+body {
+	margin-left: 200px;
+	margin-right: 200px;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+	background-color: #f1f1f1;
+}
+
+a:link { color: #e91d63; }
+a:visited { color: #e91d63; }
+a:hover { color: orange; }
+a:active { color: blue; } 
+    
+h1 {
+	  color: #e91d63;
+      background-color: #888888;
+    }
+h2 {
+	  color: #e91d63;
+      background-color: #aaaaaa;
+    }
+h3 {
+	  color: #e91d63;
+      background-color: #cccccc;
+}
